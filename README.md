@@ -7,6 +7,6 @@
 
 Созданы отчеты по остатками и продажам товаров. 
 
-(https://github.com/ariakor/Pharmacy1C/blob/main/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B01.jpg)
-(https://github.com/ariakor/Pharmacy1C/blob/main/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B02.jpg)
-(https://github.com/ariakor/Pharmacy1C/blob/main/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B03.jpg)
+![] (https://github.com/ariakor/Pharmacy1C/blob/main/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B01.jpg)
+![] (https://github.com/ariakor/Pharmacy1C/blob/main/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B02.jpg)
+![] (https://github.com/ariakor/Pharmacy1C/blob/main/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B03.jpg)
